@@ -1,6 +1,6 @@
-| Titre        | Année | Compositeur | Partition                                                                   | Audio/Vidéo |
+| Titre        | Compositeur | Année | Partition                                                                   | Audio/Vidéo |
 |---------------|---------------|---------------|---------------|---------------|
-| Cent Bougies | 2019  | Jules Duruz | [download](./partitions/cent_bougies_tamb.pdf) |             |
+| Cent Bougies | Jules Duruz  | 2019 | [download](./partitions/cent_bougies_tamb.pdf) |             |
 |              |       |             |                                                                             |             |
 |              |       |             |                                                                             |             |
 |              |       |             |                                                                             |             |
