@@ -1,2 +1,2 @@
 # drum
-A collection of drum and percussion compositions
+A collection of drum and percussion compositions etc.
