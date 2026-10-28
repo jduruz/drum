@@ -13,7 +13,7 @@
 | Artistick        | Jules Duruz            | 2016      | manuscrit  |   [tamb](./partitions/Artistick.jpeg)            |           |
 | Drum Team        | Jules Duruz            | 2016      | Manuscrit  |   [tamb](./partitions/Drum_Team_tamb.jpeg)/[tom](./partitions/Drum_Team_tom.jpeg)/[GrC](./partitions/Drum_Team_GrC.jpeg)/[bongos](./partitions/Drum_Team_bongos.jpeg) /         |           |
 | Système D        | Jules Duruz            | 2016      | Digital    |  [v1, v2](./partitions/systeme_D.pdf) /             |           |
-| Que des Tubes    | Jules Duruz            | 2015      | Digital    |               |           |
+| Que des Tubes    | Jules Duruz            | 2015      | Digital    |  [v1](./partitions/Tubes_HAUT.pdf)/[v2](./partitions/Tubes_MOYEN.pdf)/[v3](./partitions/Tubes_BAS.pdf)/[v4](./partitions/Tubes_TRES_BAS.pdf)/[HiHat](./partitions/Tubes_HiHat.pdf)            |           |
 | Pile ou Face     | Jules Duruz            | 2014      | Digital    |     [v1, v2](./partitions/pile_ou_face.pdf)          |           |
 | Deep South       | Jules Duruz            | 2014      | Digital    |           [Tamb](./partitions/Deep_South.pdf)    |           |
 | Roulé Boulé      | Jules Duruz            | 2013      | Digital    |   [Tamb](./partitions/roule_boule.pdf)            |           |
