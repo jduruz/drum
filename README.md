@@ -6,7 +6,7 @@
 | World Cups       | Jules Duruz            | 2021      | Digital    |               |           |
 | LaFaMi           | Jules Duruz            | 2020      | manuscrit  |               |           |
 | Plus de Batterie | Jules Duruz            | 2020      | manuscrit  |               |           |
-| Cent Bougies     | Jules Duruz            | 2019      | Digital    | [tamb](./partitions/cent_bougies_tamb.pdf), [tom](./partitions/100 bougies - toms.pdf)              |           |
+| Cent Bougies     | Jules Duruz            | 2019      | Digital    | [tamb](./partitions/cent_bougies_tamb.pdf), [tom](./partitions/100bougies_toms.pdf), [GrC](./partitions/cent_bougies_GrC.pdf)              |           |
 | Origines         | Jules Duruz            | 2019      | ?          |               |           |
 | Fait Main        | Jules Duruz            | 2018      | Digital    |               |           |
 | Roll-Play        | Jules Duruz            | 2017      | Digital    |               |           |
