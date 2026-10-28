@@ -1,7 +1,7 @@
 
 | **Nom**          | **Compositeur**        | **Année** | **Format** | **Partition** | **Vidéo** |
 |------------------|------------------------|-----------|------------|---------------|-----------|
-| Stéréos          | Jules Duruz            | 2023      | Digital    |     [tamb/GrC](./partitions/stereos.pdf)          |           |
+| Stéréos          | Jules Duruz            | 2023      | Digital    |     [tamb/GrC](./partitions/Stereos.pdf)          |           |
 | Voltiges         | Jules Duruz            | 2021      | Digital    |   [tamb](./partitions/Voltiges.pdf)            |           |
 | World Cups       | Jules Duruz            | 2021      | Digital    |     [v1](./partitions/World_cups_v1.pdf) / [v2](./partitions/World_cups_v2.pdf)         |           |
 | LaFaMi           | Jules Duruz            | 2020      | manuscrit  |    [v1](./partitions/LaFaMi_1.jpeg) / [v2](./partitions/LaFaMi_2.jpeg)           |           |
