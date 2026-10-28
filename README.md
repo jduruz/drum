@@ -18,5 +18,5 @@
 | Deep South       | Jules Duruz            | 2014      | Digital    |           [solo](./partitions/Deep_South.pdf)    |           |
 | Roulé Boulé      | Jules Duruz            | 2013      | Digital    |   [solo](./partitions/roule_boule.pdf)            |           |
 | Tout en douceur  | Duruz/Tâche            | 2011      |            | [GrC1](./partitions/Tout_en_douceur_1.jpeg)/[GrC2](./partitions/Tout_en_douceur_2.jpeg)/[GrC3](./partitions/Tout_en_douceur_3.jpeg)             |           |
-| Tapage Nocturne  | Jules Duruz            | 2009      | manuscrit  |  [Tamb](./partitions/Tapage_Nocturne_tamb.jpeg)             |           |
+| Tapage Nocturne  | Jules Duruz            | 2009      | manuscrit  |  [Tamb](./partitions/Tapage_Nocture_tamb.jpeg)             |           |
 | La Gouille       | Jules Duruz            | 2008      | manuscrit  |    [Tamb](./partitions/La_Gouille.jpeg)           |           |
