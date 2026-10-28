@@ -1,12 +1,12 @@
 
 | **Nom**          | **Compositeur**        | **Année** | **Format** | **Partition** | **Vidéo** |
 |------------------|------------------------|-----------|------------|---------------|-----------|
-| Stéréos          | Jules Duruz            | 2023      | Digital    |               |           |
-| Voltiges         | Jules Duruz            | 2021      | Digital    |               |           |
-| World Cups       | Jules Duruz            | 2021      | Digital    |               |           |
-| LaFaMi           | Jules Duruz            | 2020      | manuscrit  |               |           |
+| Stéréos          | Jules Duruz            | 2023      | Digital    |     [tamb/GrC](./partitions/stereos.pdf)          |           |
+| Voltiges         | Jules Duruz            | 2021      | Digital    |   [tamb](./partitions/Voltiges.pdf)            |           |
+| World Cups       | Jules Duruz            | 2021      | Digital    |     [v1](./partitions/World_cups_v1.pdf) / [v2](./partitions/World_cups_v2.pdf)         |           |
+| LaFaMi           | Jules Duruz            | 2020      | manuscrit  |    [v1](./partitions/LaFaMi_v1.pdf) / [v2](./partitions/LaFaMi_v2.pdf)           |           |
 | Plus de Batterie | Jules Duruz            | 2020      | manuscrit  |               |           |
-| Cent Bougies     | Jules Duruz            | 2019      | Digital    | [tamb](./partitions/cent_bougies_tamb.pdf), [tom](./partitions/100bougies_toms.pdf), [GrC](./partitions/cent_bougies_GrC.pdf)              |           |
+| Cent Bougies     | Jules Duruz            | 2019      | Digital    | [tamb](./partitions/cent_bougies_tamb.pdf)/ [tom](./partitions/100bougies_toms.pdf)/ [GrC](./partitions/100bougies_GrC.pdf)              |           |
 | Origines         | Jules Duruz            | 2019      | ?          |               |           |
 | Fait Main        | Jules Duruz            | 2018      | Digital    |               |           |
 | Roll-Play        | Jules Duruz            | 2017      | Digital    |               |           |
