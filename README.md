@@ -7,7 +7,7 @@
 | LaFaMi           | Jules Duruz            | 2020      | manuscrit  |    [v1](./partitions/LaFaMi_1.pdf) / [v2](./partitions/LaFaMi_2.pdf)           |           |
 | Plus de Batterie | Jules Duruz            | 2020      | manuscrit  |               |           |
 | Cent Bougies     | Jules Duruz            | 2019      | Digital    | [tamb](./partitions/cent_bougies_tamb.pdf)/ [tom](./partitions/100bougies_toms.pdf)/ [GrC](./partitions/100bougies_GrC.pdf)              |           |
-| Origines         | Jules Duruz            | 2019      | digital          |    [typewriter](./partitions/Origines_MaE.pdf)/[pile](./partitions/Origines_pile.pdf) /[bouton](./partitions/Origines_interruteur.pdf) /[casque](./partitions/Origines_casques.pdf)/[enclume](./partitions/Origines_enclume.pdf)             |           |
+| Origines         | Jules Duruz            | 2019      | digital          |    [typewriter](./partitions/Origines_MaE.pdf)/[pile](./partitions/Origines_pile.pdf) /[bouton](./partitions/Origines_interrupteur.pdf) /[casque](./partitions/Origines_casques.pdf)/[enclume](./partitions/Origines_enclume.pdf)             |           |
 | Fait Main        | Jules Duruz            | 2018      | Digital    | [v1,v2,v3](./partitions/Fait_main.pdf) / [légende](./partitions/Fait_main_legende.pdf)             |           |
 | Roll-Play        | Jules Duruz            | 2017      | scan   |  [tamb](./partitions/Roll_play.jpeg)             |           |
 | Artistick        | Jules Duruz            | 2016      | manuscrit  |   [tamb](./partitions/Artistick.jpeg)            |           |
