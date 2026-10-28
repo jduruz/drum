@@ -15,8 +15,8 @@
 | Système D        | Jules Duruz            | 2016      | Digital    |  [v1, v2](./partitions/systeme_D.pdf) /             |           |
 | Que des Tubes    | Jules Duruz            | 2015      | Digital    |               |           |
 | Pile ou Face     | Jules Duruz            | 2014      | Digital    |     [v1, v2](./partitions/pile_ou_face.pdf)          |           |
-| Deep South       | Jules Duruz            | 2014      | Digital    |           [solo](./partitions/Deep_South.pdf)    |           |
-| Roulé Boulé      | Jules Duruz            | 2013      | Digital    |   [solo](./partitions/roule_boule.pdf)            |           |
+| Deep South       | Jules Duruz            | 2014      | Digital    |           [Tamb](./partitions/Deep_South.pdf)    |           |
+| Roulé Boulé      | Jules Duruz            | 2013      | Digital    |   [Tamb](./partitions/roule_boule.pdf)            |           |
 | Tout en douceur  | Duruz/Tâche            | 2011      |            | [GrC1](./partitions/Tout_en_douceur_1.jpeg)/[GrC2](./partitions/Tout_en_douceur_2.jpeg)/[GrC3](./partitions/Tout_en_douceur_3.jpeg)             |           |
-| Tapage Nocturne  | Jules Duruz            | 2009      | manuscrit  |  [Tamb](./partitions/Tapage_Nocture_tamb.jpeg)             |           |
+| Tapage Nocturne  | Jules Duruz            | 2009      | manuscrit  |  [Tamb](./partitions/Tapage_Nocturne_tamb.jpeg)             |           |
 | La Gouille       | Jules Duruz            | 2008      | manuscrit  |    [Tamb](./partitions/La_Gouille.jpeg)           |           |
